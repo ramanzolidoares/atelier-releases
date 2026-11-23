@@ -6,7 +6,7 @@ Downloads for Atelier, a Mac app for product designers who design in code. Needs
 
 1. Open the newest release under [Releases](https://github.com/ramanzolidoares/atelier-releases/releases/latest) and download **Atelier.zip**.
 2. Open the zip and move **Atelier** to your Applications folder.
-3. Open Atelier. The first time, macOS says it can't check the app. Open **System Settings > Privacy & Security**, scroll down, and click **Open Anyway** beside Atelier.
+3. Open Atelier. It is signed and notarized by Apple, so it opens like any other Mac app.
 
 ## Updates
 
